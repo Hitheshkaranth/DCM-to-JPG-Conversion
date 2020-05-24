@@ -14,6 +14,7 @@ pydicom
 Useage:
 
 before running the code make sure to edit:
+
 dcm_folder_path = "PATH_OF_DCM_FILES"
 
 jpg_file_path = "PATH_TO_STORE_JPG"

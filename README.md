@@ -14,8 +14,9 @@ pydicom
 Useage:
 
 before running the code make sure to edit:
-dcm_folder_path = ""
-jpg_file_path = ""
+dcm_folder_path = "PATH_OF_DCM_FILES"
+
+jpg_file_path = "PATH_TO_STORE_JPG"
 
 dcm_folder_path is the folder path containing .dcm file 
 jpg_file_path is the path for saving .jpg file converted from .dcm
